@@ -1,4 +1,4 @@
 # WorkTree
 WorkTree
 
-* Guide to setup Github with WorkTree
+## This is the cool Branch
